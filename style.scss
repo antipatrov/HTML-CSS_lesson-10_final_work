@@ -1,0 +1,27 @@
+.header {
+    background-color: #212529;
+}
+
+h1 {
+    color: aquamarine
+}
+
+.nav-link {
+    color: #ffc107;
+}
+
+.carousel-inner {
+    max-width: 100%;
+    height: auto;
+}
+
+.fa {
+    font-size: xxx-large;
+    ;
+}
+
+@media (min-width: 1195px) {
+    .navbar-expand-lg .navbar-toggler {
+        display: none;
+    }
+}
